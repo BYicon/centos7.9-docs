@@ -122,9 +122,3 @@ npm install -g yarn
     ```bash
     pm2 start index.js
     ```
-
-## 待安装软件
-
-- MySQL
-- Redis
-- FFmpeg
