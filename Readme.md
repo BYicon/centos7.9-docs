@@ -8,7 +8,7 @@
 
 [gifski](./FFmpeg.md)
 
-[mysql](./mysql.md)
+[MySQL](./MySQL.md)
 
 [redis](./redis.md)
 
