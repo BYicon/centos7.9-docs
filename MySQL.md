@@ -86,6 +86,8 @@ default-character-set=utf8
 
 ### 5.1 解决 status=127 问题
 
+可能原因： systemd版本兼容问题,可以尝试以下命令。
+
 ```bash
 # 重新安装 systemd
 yum reinstall systemd
