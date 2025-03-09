@@ -10,7 +10,7 @@
 
 [MySQL](./MySQL.md)
 
-[redis](./redis.md)
+[Redis](./Redis.md)
 
 [nginx](./nginx.md)
 
